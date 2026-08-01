@@ -1,6 +1,6 @@
 # Qiskit 编程器
 
-一个轻量的本地 Qiskit 图形编程环境，使用 Python 和 Tkinter 构建。它提供代码编辑、语法着色、运行/停止、输出查看和贝尔态示例，适合学习量子电路与 Qiskit 的 `transpile` 编译流程。
+一个源码可用的轻量本地 Qiskit 图形编程环境，使用 Python 和 Tkinter 构建。它提供代码编辑、语法着色、运行/停止、输出查看和贝尔态示例，适合学习量子电路与 Qiskit 的 `transpile` 编译流程。
 
 > 本项目是社区项目，与 IBM 或 Qiskit 官方没有隶属关系。
 
@@ -101,4 +101,6 @@ qiskit-programmer/
 
 ## 许可证
 
-[MIT License](LICENSE)
+本项目采用 [PolyForm Noncommercial License 1.0.0](LICENSE)：允许个人学习、研究、实验、业余项目，以及符合许可证定义的非商业组织使用；**不允许商业用途**。
+
+因为许可证限制商业使用，本项目属于“源码可用（source-available）”，而不是 OSI 定义的开源软件。商业授权请联系版权所有者。
